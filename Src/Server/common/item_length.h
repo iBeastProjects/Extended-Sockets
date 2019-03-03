@@ -1,3 +1,5 @@
+#include "service.h" //Or other file with defines
+
 [...]
 
 enum EItemMisc
